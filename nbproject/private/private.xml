@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/vista/registrarse.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/jugadorDAO.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/controllers/ControllerUsu.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/implemetacionUsuario.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/ImplementacionJugador.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/jugador.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/usuarioDAO.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/test/modelo/ImplementacionJugadorTest.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/conexionSQL.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/modelo/usuario.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/vista/agregarJugador.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/vista/login.java</file>
+            <file>file:/C:/Users/ok/Documents/NetBeansProjects/App_Baskest/src/controllers/ControllerJug.java</file>
+        </group>
+    </open-files>
+</project-private>
